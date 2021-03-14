@@ -1,1 +1,0 @@
-        webcam = Webcam(self.frame2)
